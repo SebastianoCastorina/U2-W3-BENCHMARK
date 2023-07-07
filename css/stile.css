@@ -1,0 +1,12 @@
+body {
+  height: 100vh;
+  background-image: url(https://img.freepik.com/free-photo/top-view-delicious-exotic-seafood-dish_23-2148637868.jpg?w=2000&t=st=1688738520~exp=1688739120~hmac=299e730f0fc87ec1b4d319d3677167c55312f182246baabdc6ad02312b857ac3);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+img {
+  max-height: 140px;
+}
+#logo {
+  width: 160px;
+}
